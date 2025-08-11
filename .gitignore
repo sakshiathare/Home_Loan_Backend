@@ -1,0 +1,14 @@
+# Eclipse 
+.metadata/
+.settings/
+.classpath
+.project
+ECHO is on.
+# Build output
+/target/
+/bin/
+ECHO is on.
+# Logs 
+*.log
+*.tmp
+*.iml
